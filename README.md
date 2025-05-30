@@ -58,6 +58,8 @@ For any other input, the bot responds using **Gemini AI** for a natural, convers
 
 ### 📱 Mobile View
 
+![whatsAPPBotMobileDemo (1)](https://github.com/user-attachments/assets/4b4306b1-b8ac-4479-9e14-3fb55d6108a5)
+
 ---
 
 ## 🛠️ Built With

@@ -1,6 +1,5 @@
 # WhatsApp Portfolio Bot 💬
 
-Welcome to the **WhatsApp-style Portfolio Web App**!  
 This interactive chatbot experience mimics WhatsApp's UI and helps you learn more about me using the **Gemini API** and predefined commands.
 
 ## 📖 Table of Contents
@@ -14,8 +13,9 @@ This interactive chatbot experience mimics WhatsApp's UI and helps you learn mor
 
 ## 🎯 Overview
 
-This web app is a creative and engaging way to explore my portfolio.  
-Think of it as chatting with me through a WhatsApp-style bot! You can type predefined **keywords** to get information about my skills, projects, resume, and more.
+- This web app is a creative and engaging way to explore my portfolio.  
+- Think of it as chatting with me through a WhatsApp-style bot!
+- You can type predefined **keywords** to get information about my skills, projects, resume, and more.
 
 For anything else, the app responds using the **Gemini AI API**, making it feel like you're having a real conversation.
 
@@ -57,6 +57,8 @@ For any other input, the bot responds using **Gemini AI** for a natural, convers
 
 
 ### 📱 Mobile View
+
+![whatsAPPBotMobileDemo](https://github.com/user-attachments/assets/88bb6eb1-c429-4a77-8069-4f74149ec01a)
 
 ![whatsAPPBotMobileDemo (1)](https://github.com/user-attachments/assets/4b4306b1-b8ac-4479-9e14-3fb55d6108a5)
 

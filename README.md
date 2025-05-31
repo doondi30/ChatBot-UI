@@ -1,4 +1,4 @@
-# WhatsApp Portfolio Bot 💬
+# ᴡʜᴀᴛꜱᴀᴘᴘ ᴘᴏʀᴛꜰᴏʟɪᴏ ʙᴏᴛ 💻
 
 This interactive chatbot experience mimics WhatsApp's UI and helps you learn more about me using the **Gemini API** and predefined commands.
 
@@ -54,6 +54,8 @@ For any other input, the bot responds using **Gemini AI** for a natural, convers
 ## 🖼️ Screenshots
 
 ### 💻 Desktop View
+
+![Copy of hangmanMbl](https://github.com/user-attachments/assets/d07f84b5-831e-44c4-9b6a-f0c6ae71ce3b)
 
 
 ### 📱 Mobile View

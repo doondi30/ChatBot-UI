@@ -76,8 +76,8 @@ For any other input, the bot responds using **Gemini AI** for a natural, convers
 
 ## 📌 Links
 
-- 🔗 **Live Demo**: [Visit the Live App](https://doondigangadhar30.github.io/WhatsAppAPI/)
-- 📂 **Repository**: [GitHub Repository](https://github.com/doondigangadhar30/WhatsAppBot)
+- 🔗 **Live Demo**: [Visit the Live App](https://doondi30.github.io/ChatBot-UI-Private/)
+- 📂 **Repository**: [GitHub Repository](https://doondi30.github.io/ChatBot-UI)
 - 👨‍💼 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/doondi/)
 
 ---
